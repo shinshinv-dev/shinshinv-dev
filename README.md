@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![shinshinv's GitHub stats](https://github-readme-stats.vercel.app/api?username="shinshinv-dev")](https://github.com/anuraghazra/github-readme-stats)
+[![shinshinv's GitHub stats](https://github-readme-stats.vercel.app/api?username="shinshinv-dev")](https://github.com/shinshinv-dev/github-readme-stats)
 
 
 <!--
